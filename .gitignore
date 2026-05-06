@@ -67,3 +67,17 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# IDE/editor state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Qt Creator
+CMakeLists.txt.user
+*.creator
+*.creator.user
+*.files
+*.includes
